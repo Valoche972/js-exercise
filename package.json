@@ -1,0 +1,16 @@
+{
+  "name": "js-exercise",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "git@github.com:Valoche972/js-exercise.git",
+  "author": "Valoche <valentin@leeroy.ca>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4"
+  }
+}
